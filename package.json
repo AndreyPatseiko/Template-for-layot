@@ -1,0 +1,29 @@
+{
+  "name": "start template",
+  "version": "1.0.0",
+  "description": "start template for layot",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "gulp-uglifycss": "^1.0.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "imagemin-pngquant": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Patseiko",
+  "license": "ISC"
+}

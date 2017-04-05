@@ -1,0 +1,27 @@
+{
+  "name": "omertex-site",
+  "description": "dev site company Omertex",
+  "main": "index.js",
+  "authors": [
+    "Andrey Patseiko"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "scrollify": "Scrollify#^1.0.12",
+    "jquery": "^3.1.1",
+    "slick-carousel": "^1.6.0",
+    "jquery-mobile-bower": "^1.4.5",
+    "jquery-validation": "^1.16.0",
+    "jquery-ui": "^1.12.1",
+    "jquery-confirm2": "craftpip/jquery-confirm#^3.0.3"
+  }
+}
